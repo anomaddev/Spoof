@@ -1,3 +1,3 @@
 # Spoof
 
-A description of this package.
+Create Spoof Objects & Network calls easily.
